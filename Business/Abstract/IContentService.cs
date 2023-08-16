@@ -9,7 +9,7 @@ namespace Business.Abstract
 {
     public interface IContentService
     {
-        List<Content> GetContentList();
+        List<Content> GetContentList(string p);
         List<Content> GetContentListByAuthor(int id);
         List<Content> GetContentListByHeadingId(int id);
         void AddContent(Content content);

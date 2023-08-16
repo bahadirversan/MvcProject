@@ -2071,6 +2071,15 @@
     <Content Include="AdminLTE-3.0.4\web\images\move_up.png" />
     <Content Include="AdminLTE-3.0.4\web\images\next.png" />
     <Content Include="AdminLTE-3.0.4\web\images\prev.png" />
+    <Content Include="AdminLTE-3.0.4\web\images\Screenshot1.png" />
+    <Content Include="AdminLTE-3.0.4\web\images\Screenshot2.png" />
+    <Content Include="AdminLTE-3.0.4\web\images\Screenshot3.png" />
+    <Content Include="AdminLTE-3.0.4\web\images\Screenshot4.png" />
+    <Content Include="AdminLTE-3.0.4\web\images\Screenshot5.png" />
+    <Content Include="AdminLTE-3.0.4\web\images\Screenshot6.png" />
+    <Content Include="AdminLTE-3.0.4\web\images\Screenshot7.png" />
+    <Content Include="AdminLTE-3.0.4\web\images\Screenshot8.png" />
+    <Content Include="AdminLTE-3.0.4\web\images\Screenshot9.png" />
     <Content Include="AdminLTE-3.0.4\web\images\serve.jpg" />
     <Content Include="AdminLTE-3.0.4\web\images\stats.jpg" />
     <Content Include="AdminLTE-3.0.4\web\images\testimonials.jpg" />
@@ -2634,6 +2643,7 @@
     <Content Include="Views\AuthorPanel\AllHeading.cshtml" />
     <Content Include="Views\AuthorPanelContent\AddContent.cshtml" />
     <Content Include="Views\Home\HomePage.cshtml" />
+    <Content Include="Views\Content\GetAllContent.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
